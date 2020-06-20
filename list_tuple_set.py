@@ -1,4 +1,4 @@
-coding excercise-2
+
 # Create a list, called my_list, with three numbers. The total of the numbers added together should be 100.
 my_list=[20,20,10]
 
@@ -15,6 +15,6 @@ set2.intersection(set1)
 set1={12,15,6,8,19,20}
 set2={15,6,20}
 set3={12,19,20}
-set1=set2.intersection(set3)
+set1=set2.di
 print(set1)
 
