@@ -16,7 +16,7 @@ class Book(BookShelf):
 
 
 book = Book("Harry Potter", 120)
-print(book)  # What?
+print(book)  
 
 # -- Composition over inheritance here --
 
